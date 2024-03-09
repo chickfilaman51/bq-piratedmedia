@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Content Theft",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "People put media like books and movies on the internet.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Valuable Information",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "People get access to resources they never would've had access to before.",
   },
   {
-    id: "feature-3",
+    id: "",
     icon: send,
-    title: "Balance Transfer",
+    title: "Innovation",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Students around the world figuring out new ways to change the earth as we know it.",
   },
 ];
 
@@ -73,13 +73,13 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Pirated Website Visits",
+    value: "215B+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Of all media pirated",
+    value: "37%",
   },
   {
     id: "stats-3",

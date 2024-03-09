@@ -1,10 +1,10 @@
 import styles from "../style";
-import { discount, robot } from "../assets";
+import { discount, piratedmedia } from "../assets";
 import GetStarted from "./GetStarted";
 
 const HomePage = () => {
   return (
-    <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
+    <section id="home" className={`flex md:flex-row my-16 flex-col ${styles.paddingY}`}>
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
 
 
@@ -22,8 +22,8 @@ const HomePage = () => {
         </p>
       </div>
 
-      <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
+      <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-20 relative`}>
+        <img src={piratedmedia} alt="billing" className="w-[140%] h-[110%] relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
