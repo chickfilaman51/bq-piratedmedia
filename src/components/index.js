@@ -8,7 +8,7 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import HomePage from "./HomePage"
-import Simulation from "./simulation"
+import Simulation from "./Simulation"
 
 export {
   Navbar,
