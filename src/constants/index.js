@@ -6,12 +6,12 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "question",
+    title: "Question",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "description",
+    title: "Description",
   },
   {
     id: "clients",
@@ -83,8 +83,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Worth of Pirated Material",
+    value: "$46.3B+",
   },
 ];
 

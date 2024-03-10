@@ -1,23 +1,25 @@
 import Navbar from "./Navbar";
-import Billing from "./Billing";
+import Description from "./Description";
 import CardDeal from "./CardDeal";
-import Business from "./Business";
+import Question from "./Question";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import HomePage from "./HomePage"
+import Simulation from "./simulation"
 
 export {
   Navbar,
-  Billing,
+  Description,
   CardDeal,
-  Business,
+  Question,
   Clients,
   CTA,
   Stats,
   Footer,
   Testimonials,
   HomePage,
+  Simulation,
 };
