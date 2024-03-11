@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Description, Question, Accessibility, Clients, CTA, Footer, Navbar, Stats, Testimonials, HomePage, Simulation } from "./components";
+import { Description, Question, Accessibility, Navbar, Stats, Overpriced, HomePage, Simulation, Innovation } from "./components";
 
 
 const App = () => (
@@ -23,10 +23,8 @@ const App = () => (
         <Description />
         <Simulation />
         <Accessibility />
-        <Testimonials />
-        <Clients />
-        <CTA />
-        <Footer />
+        <Overpriced />
+        <Innovation />
       </div>
     </div>
   </div>

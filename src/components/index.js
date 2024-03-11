@@ -2,24 +2,20 @@ import Navbar from "./Navbar";
 import Description from "./Description";
 import Accessibility from "./Accessibility";
 import Question from "./Question";
-import Clients from "./Clients";
-import CTA from "./CTA";
 import Stats from "./Stats";
-import Footer from "./Footer";
-import Testimonials from "./Testimonials";
+import Overpriced from "./Overpriced";
 import HomePage from "./HomePage"
 import Simulation from "./Simulation"
+import Innovation from "./Innovation"
 
 export {
   Navbar,
   Description,
   Accessibility,
   Question,
-  Clients,
-  CTA,
   Stats,
-  Footer,
-  Testimonials,
+  Overpriced,
   HomePage,
   Simulation,
+  Innovation,
 };

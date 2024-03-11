@@ -14,7 +14,7 @@ const Description = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Is Pirated Media <br className="sm:block hidden" /> Ethical?
+        Innovation
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         It depends. While Pirated Media is inherently wrong by the law, there are some advantages to allowing people full access to all media. Overall, it is ethical because of the accessibility that will occur, the reduction of overpriced media, and the innovation.
