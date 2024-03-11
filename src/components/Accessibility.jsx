@@ -2,19 +2,15 @@ import { card } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const CardDeal = () => (
+const Accessibility = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        Accessibility
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        Many lower-classed students and adults alike don't have access to expensive textbooks and materials that they need to succeed. To make it equal for everyone, we need to allow expensive media to be shared publicly for free.
       </p>
-
-      <Button styles={`mt-10`} />
     </div>
 
     <div className={layout.sectionImg}>
@@ -23,4 +19,4 @@ const CardDeal = () => (
   </section>
 );
 
-export default CardDeal;
+export default Accessibility;

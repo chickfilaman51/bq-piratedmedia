@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
 import Description from "./Description";
-import CardDeal from "./CardDeal";
+import Accessibility from "./Accessibility";
 import Question from "./Question";
 import Clients from "./Clients";
 import CTA from "./CTA";
@@ -13,7 +13,7 @@ import Simulation from "./Simulation"
 export {
   Navbar,
   Description,
-  CardDeal,
+  Accessibility,
   Question,
   Clients,
   CTA,
