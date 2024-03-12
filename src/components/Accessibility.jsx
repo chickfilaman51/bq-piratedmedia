@@ -1,4 +1,4 @@
-import { card } from "../assets";
+import { card, poverty } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
@@ -13,8 +13,11 @@ const Accessibility = () => (
       </p>
     </div>
 
-    <div className={layout.sectionImg}>
-      <img src={card} alt="billing" className="w-[100%] h-[100%]" />
+    <div className={`${layout.sectionImg} rounded-lg relative`}>
+      <img src={poverty} alt="poverty" className="w-[100%] h-[auto]" />
+      <p className={`${styles.paragraph} max-w-[470px] mt-2 text-sm text-center absolute bottom-0 w-full`} style={{ top: "calc(100% + 0.5rem)" }}>
+        Graph of students in poverty who don't have access to books
+      </p>
     </div>
   </section>
 );

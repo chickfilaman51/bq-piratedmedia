@@ -25,6 +25,10 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import sources from "./sources.png";
 import person from "./person.png";
+import popcorn from "./popcorn.png";
+import potter from "./potter.png";
+import poverty from "./poverty.png";
+import stocks from "./stocks.png";
 
 export {
   airbnb,
@@ -54,4 +58,8 @@ export {
   people03,
   sources,
   person,
+  popcorn,
+  potter,
+  poverty,
+  stocks,
 };

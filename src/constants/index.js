@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, popcorn, potter  } from "../assets";
 
 export const navLinks = [
   {
@@ -47,12 +47,12 @@ export const feedback = [
   {
     id: "feedback-1",
     name: "Harry Potter Books",
-    img: people01,
+    img: potter,
   },
   {
     id: "feedback-2",
     name: "Movie Food",
-    img: people02,
+    img: popcorn,
   },
   {
     id: "feedback-3",
