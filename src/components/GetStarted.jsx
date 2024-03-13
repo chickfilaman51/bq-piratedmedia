@@ -4,7 +4,7 @@ import { arrowUp } from "../assets";
 
 const GetStarted = () => {
   const handleScroll = () => {
-    const footerElement = document.getElementById("intro");
+    const footerElement = document.getElementById("question");
     if (footerElement) {
       window.scrollTo({
         top: footerElement.offsetTop,

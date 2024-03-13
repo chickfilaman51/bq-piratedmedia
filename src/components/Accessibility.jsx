@@ -3,7 +3,7 @@ import styles, { layout } from "../style";
 import Button from "./Button";
 
 const Accessibility = () => (
-  <section className={layout.section}>
+  <section id = "accessibility" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         Accessibility

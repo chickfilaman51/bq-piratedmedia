@@ -29,6 +29,7 @@ import popcorn from "./popcorn.png";
 import potter from "./potter.png";
 import poverty from "./poverty.png";
 import stocks from "./stocks.png";
+import stealing from "./stealing.png";
 
 export {
   airbnb,
@@ -62,4 +63,5 @@ export {
   potter,
   poverty,
   stocks,
+  stealing,
 };

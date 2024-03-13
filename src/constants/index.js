@@ -14,8 +14,24 @@ export const navLinks = [
     title: "Description",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "simulation",
+    title: "Simulation",
+  },
+  {
+    id: "accessibility",
+    title: "Accessibility",
+  },
+  {
+    id: "overpriced",
+    title: "Overpriced Media",
+  },
+  {
+    id: "innovation",
+    title: "Innovation",
+  },
+  {
+    id: "counter",
+    title: "Counterclaim",
   },
 ];
 
@@ -25,7 +41,7 @@ export const features = [
     icon: star,
     title: "Content Theft",
     content:
-      "People put media like books and movies on the internet.",
+      "People put popular media like books and movies on the internet.",
   },
   {
     id: "feature-2",

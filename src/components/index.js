@@ -7,6 +7,7 @@ import Overpriced from "./Overpriced";
 import HomePage from "./HomePage"
 import Simulation from "./Simulation"
 import Innovation from "./Innovation"
+import Counter from "./Counter"
 
 export {
   Navbar,
@@ -18,4 +19,5 @@ export {
   HomePage,
   Simulation,
   Innovation,
+  Counter,
 };
