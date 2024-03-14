@@ -30,8 +30,10 @@ import potter from "./potter.png";
 import poverty from "./poverty.png";
 import stocks from "./stocks.png";
 import stealing from "./stealing.png";
+import mark from "./mark.png";
 
 export {
+  mark,
   airbnb,
   bill,
   binance,

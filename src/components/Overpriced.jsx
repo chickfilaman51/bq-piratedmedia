@@ -12,7 +12,7 @@ const Overpriced = () => (
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          The issue with current media is that popular products and authors purposely overprice their products to take money. They know that people will buy their products and as a consequence, they can easily make their things expensive. However, this is bad for people with less money.
+          The issue with current media is that popular products and authors purposely overprice their products to take money. They know that people will buy their products and as a consequence, they can easily make their things expensive. However, this is bad for people with less money (Collins, 56).
         </p>
       </div>
     </div>

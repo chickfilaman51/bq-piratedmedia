@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Description, Question, Accessibility, Navbar, Stats, Overpriced, HomePage, Simulation, Innovation, Counter } from "./components";
+import { Description, Form, Question, Accessibility, Navbar, Stats, Overpriced, HomePage, Simulation, Innovation, Counter } from "./components";
 
 
 const App = () => (
@@ -26,6 +26,7 @@ const App = () => (
         <Overpriced />
         <Innovation />
         <Counter />
+        <Form />
       </div>
     </div>
   </div>

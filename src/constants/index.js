@@ -18,21 +18,14 @@ export const navLinks = [
     title: "Simulation",
   },
   {
-    id: "accessibility",
-    title: "Accessibility",
+    id: "main-points",
+    title: "Main Points",
   },
   {
-    id: "overpriced",
-    title: "Overpriced Media",
+    id: "form",
+    title: "Experience Form",
   },
-  {
-    id: "innovation",
-    title: "Innovation",
-  },
-  {
-    id: "counter",
-    title: "Counterclaim",
-  },
+  
 ];
 
 export const features = [

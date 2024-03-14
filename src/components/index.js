@@ -8,6 +8,7 @@ import HomePage from "./HomePage"
 import Simulation from "./Simulation"
 import Innovation from "./Innovation"
 import Counter from "./Counter"
+import Form from "./Form"
 
 export {
   Navbar,
@@ -20,4 +21,5 @@ export {
   Simulation,
   Innovation,
   Counter,
+  Form
 };
